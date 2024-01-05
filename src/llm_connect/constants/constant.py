@@ -1,0 +1,1 @@
+CONFIG_FILE_PATH=r"C:\Users\User\Desktop\Main-NLP-PROJECTS\Langchain_finance\Finance-Research-Langchain\config.yml"

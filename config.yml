@@ -1,0 +1,7 @@
+Database:
+   host: localhost
+   password: postgres
+   name: LLM-Retail
+   user: postgres
+
+    
